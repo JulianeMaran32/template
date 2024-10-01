@@ -13,12 +13,16 @@
     <version>0.0.1</version>
     <name>template</name>
     <description>Template</description>
-    <url/>
+    <url>https://github.com/JulianeMaran32/template</url>
     <licenses>
         <license/>
     </licenses>
     <developers>
-        <developer/>
+        <developer>
+            <id>JulianeMaran32</id>
+            <name>Juliane Maran</name>
+            <email>julianemaran@gmail.com</email>
+        </developer>
     </developers>
     <scm>
         <connection/>
